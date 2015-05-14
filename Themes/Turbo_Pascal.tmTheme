@@ -328,5 +328,7 @@
 	<string>sRGB</string>
 	<key>semanticClass</key>
 	<string>theme.dark.turbo_pascal</string>
+	<key>comment</key>
+	<string>https:&#x2f;&#x2f;github.com&#x2f;Retromantis&#x2f;SublimeText&#x2f;blob&#x2f;master&#x2f;Themes&#x2f;Turbo_Pascal.tmTheme</string>
 </dict>
 </plist>
